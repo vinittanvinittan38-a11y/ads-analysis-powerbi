@@ -22,3 +22,5 @@ ads, campaigns, users, ad_events (CSV files)
 - Insight 1
 - Insight 2
 - Insight 3
+## Power BI File
+[Download the .pbix file](vinittan38.pbix)
